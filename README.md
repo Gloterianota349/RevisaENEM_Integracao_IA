@@ -37,7 +37,7 @@
    ```bash
    git clone https://github.com/Gloterianota349/RevisaENEM_Integracao_IA.git
    cd RevisaENEM_Integracao_IA
-````
+   ```
 
 2. Instale as dependências:
 
