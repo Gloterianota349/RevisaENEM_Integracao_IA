@@ -86,5 +86,3 @@
 
 Projeto desenvolvido por **[Guilherme Andrade](https://github.com/Gloterianota349)** 💡<br>
 Focado em **educação + tecnologia**, unindo **questões oficiais do ENEM** com **inteligência artificial** para otimizar os estudos.
-
----
