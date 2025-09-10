@@ -10,12 +10,12 @@
 ✅ **Explicações com IA** (resumo direto e objetivo do conceito da questão)  
 ✅ **Dashboard inteligente** com estatísticas de acertos, sequência de estudos e metas semanais  
 ✅ **Questão do dia** para manter a consistência  
-✅ **Flashcards personalizados** criados pelo estudante  
-✅ **Redações com temas oficiais** do ENEM
+✅ **Flashcards personalizados** criados pelo estudante<br>  
+✅ **Redações com temas oficiais** do ENEM<br>
 ✅ **Correção de redações** com IA
 ✅ **Simulados** para treinar o ritmo da prova  
 ✅ **Vídeoaulas integradas** do YouTube (Biologia, Física, História, etc.)  
-✅ **Perfil customizável** com nome, avatar e metas
+✅ **Perfil customizável** com nome, avatar e metas<br>
 ✅ **Plano de estudo personalizado** conforme as necessidades de cada estudante
 
 ---
