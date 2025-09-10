@@ -10,7 +10,7 @@
 ✅ **Explicações com IA** (resumo direto e objetivo do conceito da questão)  
 ✅ **Dashboard inteligente** com estatísticas de acertos, sequência de estudos e metas semanais  
 ✅ **Questão do dia** para manter a consistência  
-✅ **Flashcards personalizados** criados pelo estudante<br>  
+✅ **Flashcards personalizados** criados pelo estudante  
 ✅ **Redações com temas oficiais** do ENEM<br>
 ✅ **Correção de redações** com IA
 ✅ **Simulados** para treinar o ritmo da prova  
