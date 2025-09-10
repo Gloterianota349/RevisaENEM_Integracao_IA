@@ -12,7 +12,7 @@
 ✅ **Questão do dia** para manter a consistência  
 ✅ **Flashcards personalizados** criados pelo estudante  
 ✅ **Redações com temas oficiais** do ENEM<br>
-✅ **Correção de redações** com IA
+✅ **Correção de redações** com IA<br>
 ✅ **Simulados** para treinar o ritmo da prova  
 ✅ **Vídeoaulas integradas** do YouTube (Biologia, Física, História, etc.)  
 ✅ **Perfil customizável** com nome, avatar e metas<br>
