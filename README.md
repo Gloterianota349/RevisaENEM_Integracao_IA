@@ -1,4 +1,3 @@
-````markdown
 # 📚 RevisaENEM - Integrado com IA
 
 > Plataforma de estudos para o ENEM com questões oficiais, dashboard de desempenho, flashcards, simulados, entre outras muitas funcionalidades, que contam com experiência personalizada via Inteligência Artificial.
