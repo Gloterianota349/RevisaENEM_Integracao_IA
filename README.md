@@ -58,7 +58,7 @@
    ```
 
 5. Acesse no navegador:
-   👉 [http://localhost:5173]
+   👉 [http://localhost:5173](http://localhost:5173/)
 
 ---
 
@@ -84,7 +84,7 @@
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por **[Guilherme Andrade](https://github.com/Gloterianota349)** 💡
+Projeto desenvolvido por **[Guilherme Andrade](https://github.com/Gloterianota349)** 💡<br>
 Focado em **educação + tecnologia**, unindo **questões oficiais do ENEM** com **inteligência artificial** para otimizar os estudos.
 
 ---
